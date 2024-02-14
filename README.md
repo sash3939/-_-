@@ -53,6 +53,12 @@
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 
+[result script](https://github.com/sash3939/Recovery-copy/assets/156709540/b464f62a-349b-425a-ba8b-146562d3b67a)
+[crontab](https://github.com/sash3939/Recovery-copy/assets/156709540/1cde99ea-aa78-471d-8349-c06e52e75775)
+[tmp/backup](https://github.com/sash3939/Recovery-copy/assets/156709540/d79d5142-c21a-4e74-8978-b5949cd62b92)
+[script](https://github.com/sash3939/Recovery-copy/assets/156709540/4c436c13-9a8c-468a-be1f-285a3cba0197)
+
+
 ---
 
 ## Задания со звёздочкой*
