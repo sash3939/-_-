@@ -81,9 +81,9 @@
 
 ### Решение 4
 [incr](https://github.com/sash3939/Recovery-copy/assets/156709540/f6c8e062-9f2a-4e69-9c5b-6d5b87c384b7)
-[recovery.sh](https://github.com/sash3939/Recovery-copy/assets/156709540/ccfcdae9-206d-4ec0-b56b-d9839e3df859)
+[backup script](https://github.com/sash3939/Recovery-copy/assets/156709540/ccfcdae9-206d-4ec0-b56b-d9839e3df859)
 [work-incr.sh](https://github.com/sash3939/Recovery-copy/assets/156709540/5fb4ef2c-080b-4ec2-b48d-fce344ba24da)
-[recovery](https://github.com/sash3939/Recovery-copy/assets/156709540/2d868ce1-8a42-4446-933b-addfdc98a91a)
+[backup](https://github.com/sash3939/Recovery-copy/assets/156709540/2d868ce1-8a42-4446-933b-addfdc98a91a)
 
 
 
